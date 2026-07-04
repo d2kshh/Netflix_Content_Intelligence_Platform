@@ -8,7 +8,7 @@ An end-to-end Data Analytics project that transforms raw Netflix metadata into a
 
 ---
 
-![Dashboard Preview](06_PowerBI/Dashboard.png)
+![Dashboard Preview](05_PowerBI/Dashboard.png)
 </div>
 
 ---
@@ -98,7 +98,7 @@ Business Insights
 
 ## Executive Dashboard
 
-![Dashboard](06_PowerBI/Dashboard.png)
+![Dashboard](05_PowerBI/Dashboard.png)
 
 ---
 
