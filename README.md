@@ -326,3 +326,13 @@ It helps others discover the project and supports my learning journey.
 ### Thank you for visiting this project ❤️
 
 </div>
+
+## Copyright
+
+Copyright © 2026 Daksh Patel
+
+All rights reserved.
+
+This repository is provided for portfolio and educational viewing purposes only.
+
+No part of this project may be copied, modified, redistributed, or used commercially without prior written permission from the author.
