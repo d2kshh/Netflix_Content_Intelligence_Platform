@@ -331,8 +331,8 @@ It helps others discover the project and supports my learning journey.
 
 Copyright © 2026 Daksh Patel
 
-All rights reserved.
+The source code, documentation, dashboard design, reports, SQL scripts, Python scripts, and original project materials in this repository are the intellectual property of the author unless otherwise stated.
 
-This repository is provided for portfolio and educational viewing purposes only.
+The Netflix dataset used in this project is publicly available and remains the property of its respective owners. It has been used solely for educational and portfolio purposes.
 
-No part of this project may be copied, modified, redistributed, or used commercially without prior written permission from the author.
+No part of the original work in this repository may be copied, modified, redistributed, or used commercially without prior written permission from the author.
