@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# Windows
+Thumbs.db
+
+# macOS
+.DS_Store
+
+# Excel temp files
+~$*.xlsx
+
+# Power BI recovery
+*.pbix.autorecovery
+
+# Microsoft Office temporary files
+~$*.docx
+~$*.xlsx
+
